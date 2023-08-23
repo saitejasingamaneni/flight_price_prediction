@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+   
+  
+
+}
+.img
+{
+    background-image: url('image.jpg');
+    height: 100%;
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.9;
+}
+
+.navbar {
+    background-color:transparent;
+
+}
+
+a {
+    color:rgb(9, 10, 9);
+    text-align: center;
+    
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
+  .new
+  {
+    text-align: center;
+    color:white;
+    opacity: 1;
+  }
